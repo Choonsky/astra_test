@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.adastra.demo;
 
 
 import org.springframework.boot.SpringApplication;

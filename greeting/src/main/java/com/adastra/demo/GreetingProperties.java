@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.adastra.demo;
 
 import java.util.Map;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * @author Ryan Baxter
+ * @author Stanislav Nemirovsky
  */
 @ConfigurationProperties()
 public class GreetingProperties {
